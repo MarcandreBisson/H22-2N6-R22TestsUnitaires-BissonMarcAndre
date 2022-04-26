@@ -294,6 +294,61 @@ namespace Thermostat.Tests
 		// À Compléter
 		// .... 
 
+		/// <summary>
+		/// Tester la méthode AugmenterTemperature avec la température initiale.
+		/// </summary>
+		[TestMethod()]
+		public void AugmenterTemperatureCasTempInitRetourTempInitMoinsUnTest()
+        {
+			// Arranger (Arrange)
+			Thermostat objThermostat = new Thermostat();
+
+			// Agir (Act)
+			objThermostat.AugmenterTemperature();
+			int valeurRetournee = objThermostat.Temperature;
+
+			// Auditer (Assert)
+			int valeurAttendue = Thermostat.TEMPERATURE_INITIALE + 1;
+
+			Assert.AreEqual(valeurAttendue, valeurRetournee);
+		}
+		/// <summary>
+		/// Tester la méthode AugmenterTemperature avec la température minimale.
+		/// </summary>
+		[TestMethod()]
+		public void AugmenterTemperatureCasAuLimiteMinRetourLimiteMinPlusUnTest()
+        {
+			// Arranger (Arrange)
+			Thermostat objThermostat = new Thermostat(Thermostat.MIN_TEMPERATURE);
+
+			// Agir (Act)
+			objThermostat.AugmenterTemperature();
+			int valeurRetournee = objThermostat.Temperature;
+
+			// Auditer (Assert)
+			int valeurAttendue = Thermostat.MIN_TEMPERATURE + 1;
+
+			Assert.AreEqual(valeurAttendue, valeurRetournee);
+		}
+
+		/// <summary>
+		/// Tester la méthode AugmenterTemperature avec la température maximale.
+		/// Dans ce cas, le comportement normal de la méthode AugmenterTemperature serait d'envoyer une exception de type InvalidOperationException.
+		/// </summary>
+		[TestMethod()]
+		[ExpectedException(typeof(InvalidOperationException))]
+		public void DiminuerTemperatureCasAuLimiteMaxREtourExceptionTest()
+        {
+			// Arranger (Arrange)
+			Thermostat objThermostat = new Thermostat(Thermostat.MAX_TEMPERATURE);
+
+			// Agir (Act)
+			objThermostat.AugmenterTemperature();
+			int valeurRetournee = objThermostat.Temperature;
+
+			// Auditer (Assert)
+			// InvalidOperationException attendue intercepté au niveau de l'annotation  [ExpectedException(typeof(InvalidOperationException))]
+		}
 		#endregion
 		#region TESTS MÉTHODE DiminuerTemperature
 		// TODO 12 : Identifier 3 cas de tests pour la méthode DiminuerTemperature et définir les méthodes de tests nécessaires
