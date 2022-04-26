@@ -1,0 +1,96 @@
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\bin\Debug\AppThermostatTests.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\bin\Debug\AppThermostatTests.pdb
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\bin\Debug\Thermostat.exe
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\bin\Debug\Thermostat.pdb
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\obj\Debug\AppThermostatTests.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\obj\Debug\AppThermostatTests.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\obj\Debug\AppThermostatTests.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\obj\Debug\AppThermostatTests.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Ex2 Thermostat\AppThermostatTests\obj\Debug\AppThermostatTests.pdb
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\bin\Debug\AppThermostatTests.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\bin\Debug\AppThermostatTests.pdb
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\bin\Debug\Thermostat.exe
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\bin\Debug\Thermostat.pdb
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\obj\Debug\AppThermostatTests.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\obj\Debug\AppThermostatTests.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\obj\Debug\AppThermostatTests.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\obj\Debug\AppThermostatTests.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Solution) H20.1.0\AppThermostatTests\obj\Debug\AppThermostatTests.pdb
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\bin\Debug\AppThermostatTests.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\bin\Debug\AppThermostatTests.pdb
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\bin\Debug\Thermostat.exe
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\bin\Debug\Thermostat.pdb
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\obj\Debug\AppThermostatTests.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\obj\Debug\AppThermostatTests.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\obj\Debug\AppThermostatTests.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\obj\Debug\AppThermostatTests.dll
+C:\Users\jamil.gammoudi\Desktop\H20\2N6\Test Unitaire\Final\Ex1 Thermostat (Matériel) H20.1.0\AppThermostatTests\obj\Debug\AppThermostatTests.pdb
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\bin\Debug\AppThermostatTests.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\bin\Debug\AppThermostatTests.pdb
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\bin\Debug\Thermostat.exe
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\bin\Debug\Thermostat.pdb
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\obj\Debug\AppThermostatTests.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\obj\Debug\AppThermostatTests.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\obj\Debug\AppThermostatTests.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\obj\Debug\AppThermostatTests.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R21\Exemple ThermostatTestsUnitaires (À Compléter) H20.1.1\AppThermostatTests\obj\Debug\AppThermostatTests.pdb
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\bin\Debug\AppThermostatTests.dll
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\bin\Debug\AppThermostatTests.pdb
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\bin\Debug\Thermostat.exe
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\bin\Debug\Thermostat.pdb
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\bin\Debug\Thermostat.exe.config
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\obj\Debug\AppThermostatTests.csprojAssemblyReference.cache
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\obj\Debug\AppThermostatTests.csproj.CoreCompileInputs.cache
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\obj\Debug\AppThermostatTests.csproj.CopyComplete
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\obj\Debug\AppThermostatTests.dll
+C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\obj\Debug\AppThermostatTests.pdb
