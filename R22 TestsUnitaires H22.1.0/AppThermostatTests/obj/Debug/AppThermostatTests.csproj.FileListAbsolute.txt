@@ -94,3 +94,23 @@ C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\obj\De
 C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\obj\Debug\AppThermostatTests.csproj.CopyComplete
 C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\obj\Debug\AppThermostatTests.dll
 C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\AppThermostatTests\obj\Debug\AppThermostatTests.pdb
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\bin\Debug\AppThermostatTests.dll
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\bin\Debug\AppThermostatTests.pdb
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\bin\Debug\Thermostat.exe
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\bin\Debug\Thermostat.pdb
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\bin\Debug\Thermostat.exe.config
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\obj\Debug\AppThermostatTests.csproj.AssemblyReference.cache
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\obj\Debug\AppThermostatTests.csproj.CoreCompileInputs.cache
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\obj\Debug\AppThermostatTests.csproj.CopyComplete
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\obj\Debug\AppThermostatTests.dll
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\AppThermostatTests\obj\Debug\AppThermostatTests.pdb

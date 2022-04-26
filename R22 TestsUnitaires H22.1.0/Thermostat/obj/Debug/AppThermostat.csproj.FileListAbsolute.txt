@@ -175,3 +175,13 @@ C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\Thermostat\obj\Debug\AppT
 C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\Thermostat\obj\Debug\AppThermostat.csproj.CoreCompileInputs.cache
 C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\Thermostat\obj\Debug\Thermostat.exe
 C:\Users\chant\Desktop\H21_2N6\Module 3\TestsUnitaires\Thermostat\obj\Debug\Thermostat.pdb
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\Thermostat\bin\Debug\Thermostat.exe.config
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\Thermostat\bin\Debug\Thermostat.exe
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\Thermostat\bin\Debug\Thermostat.pdb
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\Thermostat\obj\Debug\AppThermostat.csproj.AssemblyReference.cache
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\Thermostat\obj\Debug\Thermostat.FrmPrincipal.resources
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\Thermostat\obj\Debug\Thermostat.Properties.Resources.resources
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\Thermostat\obj\Debug\AppThermostat.csproj.GenerateResource.cache
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\Thermostat\obj\Debug\AppThermostat.csproj.CoreCompileInputs.cache
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\Thermostat\obj\Debug\Thermostat.exe
+C:\Users\2110384\Desktop\H22-2N6-R22TestsUnitaires-BissonMarcAndre\R22 TestsUnitaires H22.1.0\Thermostat\obj\Debug\Thermostat.pdb
