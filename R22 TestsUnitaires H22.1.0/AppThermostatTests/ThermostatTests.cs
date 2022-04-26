@@ -337,14 +337,13 @@ namespace Thermostat.Tests
 		/// </summary>
 		[TestMethod()]
 		[ExpectedException(typeof(InvalidOperationException))]
-		public void DiminuerTemperatureCasAuLimiteMaxREtourExceptionTest()
+		public void AugmenterTemperatureCasAuLimiteMaxREtourExceptionTest()
         {
 			// Arranger (Arrange)
 			Thermostat objThermostat = new Thermostat(Thermostat.MAX_TEMPERATURE);
 
 			// Agir (Act)
 			objThermostat.AugmenterTemperature();
-			int valeurRetournee = objThermostat.Temperature;
 
 			// Auditer (Assert)
 			// InvalidOperationException attendue intercepté au niveau de l'annotation  [ExpectedException(typeof(InvalidOperationException))]
@@ -355,7 +354,54 @@ namespace Thermostat.Tests
 		// À Compléter
 		// .... 
 
+		/// <summary>
+		/// Tester la méthode DiminuerTemperature avec la température initiale.
+		/// </summary>
+		[TestMethod()]
+		public void DiminuerTemperatureCasTempInitRetourTempInitMoinsUnTest()
+        {
+			// Arranger (Arrange)
+			Thermostat objThermostat = new Thermostat();
+			// Agir (Act)
+			objThermostat.DiminuerTemperature();
+			int valeurRetournee = objThermostat.Temperature;
+			// Auditer (Assert)
+			int valeurAttendue = Thermostat.TEMPERATURE_INITIALE - 1;
+			Assert.AreEqual(valeurAttendue, valeurRetournee);
+		}
 
+		/// <summary>
+		/// Tester la méthode DiminuerTemperature avec la température minimale.
+		/// Dans ce cas, le comportement normal de la méthode DiminuerTemperature serait d'envoyer une exception de type InvalidOperationException.
+		/// </summary>
+		[TestMethod()]
+		[ExpectedException(typeof(InvalidOperationException))]
+		public void DiminuerTemperatureCasAuLimiteMinRetourExceptionTest()
+        {
+			// Arranger (Arrange)
+			Thermostat objThermostat = new Thermostat(Thermostat.MIN_TEMPERATURE);
+
+			// Agir (Act)
+			objThermostat.DiminuerTemperature();
+
+			//Auditer (Assert)
+			// InvalidOPerationexception attendue intercepté au niveau de l'annoation [ExpectedException(typeof(InvalidOperationException))]
+		}
+		/// <summary>
+		/// Tester la méthode DiminuerTemperature avec la température maximale.
+		/// </summary>
+		[TestMethod()]
+		public void DiminuerTemperatureCasAuLimiteMaxRetourLimiteMaxMoinsUnTest()
+        {
+			// Arranger (Arrange)
+			Thermostat objThermostat = new Thermostat(Thermostat.MAX_TEMPERATURE);
+			// Agir (Act)
+			objThermostat.DiminuerTemperature();
+			int valeurRetournee = objThermostat.Temperature;
+			// Auditer (Assert)
+			int valeurAttendue = Thermostat.MAX_TEMPERATURE - 1;
+			Assert.AreEqual(valeurAttendue, valeurRetournee);
+		}
 		#endregion
 
 
